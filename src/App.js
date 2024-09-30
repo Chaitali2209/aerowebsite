@@ -7,11 +7,7 @@ import IndexTwo from './pages/index-two';
 
 function App() {
   return (
-    <BrowserRouter basename="/aerowebsite">
-      <Routes>
-        <Route path='/' element={<IndexTwo />} />
-      </Routes>
-    </BrowserRouter>
+    <IndexTwo/>
   );
 }
 
