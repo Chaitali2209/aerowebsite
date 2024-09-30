@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/aerowebsite/static/css/main.5d450d79.css",
+    "main.js": "/aerowebsite/static/js/main.5dc9317b.js",
+    "static/js/453.dd53e008.chunk.js": "/aerowebsite/static/js/453.dd53e008.chunk.js",
+    "static/media/team_photo.JPG": "/aerowebsite/static/media/team_photo.353947213ed3afc32cee.JPG",
+    "static/media/drone_port.JPG": "/aerowebsite/static/media/drone_port.edb3d853f3d6443e45c0.JPG",
+    "static/media/droneport.JPG": "/aerowebsite/static/media/droneport.edb3d853f3d6443e45c0.JPG",
+    "static/media/bg2.JPG": "/aerowebsite/static/media/bg2.50cb624ed0787d2a832b.JPG",
+    "static/media/MDM.JPG": "/aerowebsite/static/media/MDM.1aa4e4aa26f824247937.JPG",
+    "static/media/1.jpg": "/aerowebsite/static/media/1.06cea62fdb1d662aa452.jpg",
+    "static/media/profDS.jpg": "/aerowebsite/static/media/profDS.2c88a5369d6421c4597d.jpg",
+    "static/media/iitb.png": "/aerowebsite/static/media/iitb.7b7ab9c20b06ee32bf6c.png",
+    "static/media/about.jpg": "/aerowebsite/static/media/about.f759d21a49b78240c207.jpg",
+    "static/media/profAM.jpg": "/aerowebsite/static/media/profAM.89749d8777f2e7237136.jpg",
+    "static/media/contact.svg": "/aerowebsite/static/media/contact.adff68c5dcc9005ceb1a5566aaf4440b.svg",
+    "static/media/04.jpg": "/aerowebsite/static/media/04.35463172278c4051b5f4.jpg",
+    "static/media/06.jpg": "/aerowebsite/static/media/06.7365b7fa25b4bccc5ff9.jpg",
+    "static/media/03.jpg": "/aerowebsite/static/media/03.ba5f8794c055cc1488b5.jpg",
+    "static/media/05.jpg": "/aerowebsite/static/media/05.a7ab2c82813cb95da9d6.jpg",
+    "index.html": "/aerowebsite/index.html",
+    "main.5d450d79.css.map": "/aerowebsite/static/css/main.5d450d79.css.map",
+    "main.5dc9317b.js.map": "/aerowebsite/static/js/main.5dc9317b.js.map",
+    "453.dd53e008.chunk.js.map": "/aerowebsite/static/js/453.dd53e008.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d450d79.css",
+    "static/js/main.5dc9317b.js"
+  ]
+}
