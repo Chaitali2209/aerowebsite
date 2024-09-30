@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/aerowebsite/static/css/main.5d450d79.css",
-    "main.js": "/aerowebsite/static/js/main.179df0a0.js",
+    "main.js": "/aerowebsite/static/js/main.0be5dbe4.js",
     "static/js/453.dd53e008.chunk.js": "/aerowebsite/static/js/453.dd53e008.chunk.js",
     "static/media/team_photo.JPG": "/aerowebsite/static/media/team_photo.353947213ed3afc32cee.JPG",
     "static/media/drone_port.JPG": "/aerowebsite/static/media/drone_port.edb3d853f3d6443e45c0.JPG",
@@ -20,11 +20,11 @@
     "static/media/05.jpg": "/aerowebsite/static/media/05.a7ab2c82813cb95da9d6.jpg",
     "index.html": "/aerowebsite/index.html",
     "main.5d450d79.css.map": "/aerowebsite/static/css/main.5d450d79.css.map",
-    "main.179df0a0.js.map": "/aerowebsite/static/js/main.179df0a0.js.map",
+    "main.0be5dbe4.js.map": "/aerowebsite/static/js/main.0be5dbe4.js.map",
     "453.dd53e008.chunk.js.map": "/aerowebsite/static/js/453.dd53e008.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d450d79.css",
-    "static/js/main.179df0a0.js"
+    "static/js/main.0be5dbe4.js"
   ]
 }
